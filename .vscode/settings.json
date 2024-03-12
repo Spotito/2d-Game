@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "pvp shooter.sln"
+    "dotnet.defaultSolution": "2d-Game.sln"
 }
